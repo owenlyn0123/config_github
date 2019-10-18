@@ -1,0 +1,3 @@
+/home/owen/MongoDB_Test/config/build/CMakeFiles/rebuild_cache.dir
+/home/owen/MongoDB_Test/config/build/CMakeFiles/edit_cache.dir
+/home/owen/MongoDB_Test/config/build/CMakeFiles/config_example.dir

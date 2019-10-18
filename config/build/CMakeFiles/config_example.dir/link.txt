@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/config_example.dir/src/GetAttendanceLists.cpp.o CMakeFiles/config_example.dir/src/WriteAttendanceLists.cpp.o CMakeFiles/config_example.dir/src/main.cpp.o  -o config_example -lbsoncxx -lmongocxx 
